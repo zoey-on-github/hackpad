@@ -5,8 +5,9 @@ very simple osu keypad made by yours truly
 ![alt text](image-2.png)
 
 BOM:
-3 keyswitches
-1x XIAO RP2040
-3x Cherry mx switches
-4x M3x16 Bolt
-4x M3 Heatset
+3 keycaps
+3 keyswitches  
+1x XIAO RP2040 
+3x Cherry mx switches  
+4x M3x16 Bolt  
+4x M3 Heatset  
